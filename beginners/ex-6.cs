@@ -1,4 +1,4 @@
-/* Write a function in JavaScript that counts the occurrences of each character in a given string and returns the results as an object. The object should have characters as keys and their respective counts as values. */
+/* Write a function in C# that counts the occurrences of each character in a given string and returns the results as an object. The object should have characters as keys and their respective counts as values. */
 
 using System;
 using System.Collections.Generic;
